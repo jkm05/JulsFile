@@ -1,0 +1,44 @@
+.carousel-inner>.item>img {
+    min-height: 500px;
+}
+
+.carousel-inner>.item>img, .carousel-inner>.item>a>img {
+    display: block;
+    height: auto;
+    width: 100%;
+    max-width: 100%;
+    line-height: 1;
+}
+
+.caromain{
+    width: 100%;
+    padding: 0;
+}
+
+.circle-text{
+    color: #777;
+}
+
+.main-footer{
+    margin-top: 40px;
+    background-color: #414141;
+    border-top: 1px solid #A0A0A0;
+    padding-top: 20px;
+}
+
+.panel-title.main {
+    color: #999;
+    font-weight: bold;
+}
+
+.footer-link li a {
+    color: #ddd;
+}
+
+.footer-link li {
+    padding: 10px 0;
+}
+
+.panel-heading{
+    padding: 20px 0 15px 0;
+}
